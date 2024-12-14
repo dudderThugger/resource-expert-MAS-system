@@ -1,0 +1,54 @@
+[tool.poetry]
+name = "agentic-copilot"
+version = "0.1.0"
+description = ""
+authors = []
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "*"
+pydantic-settings = "*"
+pydantic-settings-yaml = "*"
+uvicorn = "*"
+gunicorn = "*"
+wikipedia = "*"
+openai = "*"
+llama-index-llms-openai = "*"
+llama-index-experimental = "*"
+llama-index-llms-anthropic = "*"
+pydantic = "*"
+llama-index-llms-azure-openai = "*"
+pygments = "*"
+ngram = "*"
+matplotlib = "*"
+agentops = "*"
+llama-index = "*"
+llama-index-embeddings-openai = "*"
+llama-index-embeddings-azure-openai = "*"
+mlflow = "*"
+azure-storage-blob = "*"
+azure-identity = "*"
+mock = "*"
+pyvis = "*"
+llama-index-utils-workflow = "*"
+pytest = "*"
+pytest-xdist = "*"
+nbformat = "*"
+llama-index-agent-lats = "^0.3.0"
+llama-index-llms-litellm = "^0.3.0"
+llama-index-llms-openai-like = "^0.3.0"
+colorama = "^0.4.6"
+rapidfuzz = "^3.10.1"
+plotly = "^5.24.1"
+seaborn = "^0.13.2"
+llama-index-embeddings-litellm = "^0.3.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

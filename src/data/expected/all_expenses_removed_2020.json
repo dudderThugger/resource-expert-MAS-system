@@ -1,0 +1,23 @@
+{
+    "client_id": 0,
+    "base_utterance": "Determine the test streams value for the year 2020 with all the expenses removed.",
+    "plan": [
+        [
+            "query_orchestrator_agent",
+            "Fetch the test streams value for the year 2020."
+        ],
+        [
+            "query_orchestrator_agent",
+            "Fetch all the expenses for the year 2020."
+        ],
+        [
+            "calculation_agent",
+            "Subtract all the expenses from the test streams value for the year 2020 to get the net value."
+        ]
+    ],
+    "research_results": [],
+    "queried_data": {},
+    "chat_history": [],
+    "current_step": 0,
+    "calculation_results": []
+}

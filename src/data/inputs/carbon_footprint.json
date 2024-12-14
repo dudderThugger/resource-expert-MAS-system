@@ -1,0 +1,10 @@
+{
+  "client_id": 0,
+  "base_utterance": null,
+  "plan": [],
+  "research_results": [],
+  "queried_data": {},
+  "chat_history": [],
+  "current_step": null,
+  "calculation_results": []
+}

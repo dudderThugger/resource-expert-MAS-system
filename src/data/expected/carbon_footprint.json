@@ -1,0 +1,12 @@
+{
+  "client_id": 0,
+  "base_utterance": null,
+  "plan": [],
+  "research_results": [
+    "Explain how the organization measures and reports its carbon footprint.: The organization measures and reports its carbon footprint by calculating Scope 1 and Scope 2 emissions according to a specific Greenhouse Gas Inventory Methodology. This includes engaging an independent verifier to ensure accuracy and following established protocols for corporate GHG accounting. Scope 1 covers direct emissions from on-site sources, while Scope 2 accounts for indirect emissions from purchased electricity. Adjustments are made for structural changes in the business, such as acquisitions or divestitures. Additionally, emissions reduction progress is reported annually, and suppliers provide data during designated reporting seasons."
+  ],
+  "queried_data": {},
+  "chat_history": [],
+  "current_step": null,
+  "calculation_results": []
+}

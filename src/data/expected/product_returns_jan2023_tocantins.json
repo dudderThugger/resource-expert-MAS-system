@@ -1,0 +1,37 @@
+{
+    "client_id": 0,
+    "base_utterance": null,
+    "plan": [],
+    "research_results": [],
+    "queried_data": {
+        "product_returns_tocantins_jan2023": {
+            "client_id": {
+                "2212": 0
+            },
+            "data_stream": {
+                "2212": "Product Returns"
+            },
+            "site_name": {
+                "2212": "Tocantins_Brazil_166"
+            },
+            "state": {
+                "2212": "Tocantins"
+            },
+            "country": {
+                "2212": "Brazil"
+            },
+            "service_month": {
+                "2212": "JAN-2023"
+            },
+            "type": {
+                "2212": "Actual"
+            },
+            "value": {
+                "2212": 43016.605426678536
+            }
+        }
+    },
+    "chat_history": [],
+    "current_step": null,
+    "calculation_results": []
+}
